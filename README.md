@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Terraform and Powershell
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about Azure
-- 📫 How to reach me: [Linkedin Badge](https://linkedin.com/in/josdyr)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/josdyr)
